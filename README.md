@@ -17,7 +17,7 @@ Final summary of saved/skipped faces
 - Install dependencies:
 (also remember you need dlib wheel for face_recognition)
 ```bash
-pip install PyMuPDF pillow face_recognition numpy (also you need dlib wheel for face_recognition)
+pip install PyMuPDF pillow face_recognition numpy
 pip install cmake
 pip install dlib
 ```
